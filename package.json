@@ -1,0 +1,23 @@
+{
+  "name": "@valkyrie-101/how-to-npm",
+  "version": "1.0.0",
+  "description": "Learning how to use npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valkyrie-101/how-to-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "learning"
+  ],
+  "author": "Aditya Bharti",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/valkyrie-101/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/valkyrie-101/how-to-npm#readme"
+}
